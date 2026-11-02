@@ -1,0 +1,8 @@
+# build output
+/remoteterminal
+/remoteterminal.exe
+
+# local test artifacts
+*.log
+*.err
+capture.bin
